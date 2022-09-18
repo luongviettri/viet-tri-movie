@@ -1,0 +1,9 @@
+{
+    "hello":{
+        "1":"chào bạn",
+        "2":"chào bạn"
+    },
+    "signin":"Đăng nhập đi nà",
+    "signup":"Đăng kí nghen",
+    "logout":"Đăng xuất nà"
+}

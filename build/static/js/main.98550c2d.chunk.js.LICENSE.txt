@@ -1,0 +1,21 @@
+//! bên trong của thẻ Tabs ==> để hiển thị thông tin bên phải 
+
+//! chuyển hướng về trang trước đó
+
+//! chỗ này set default language
+
+//! cài bước này cho nó ko warning nữa
+
+//! f5 web
+
+//! giới hạn dữ liệu là ảnh
+
+//! giới hạn==> nếu dữ liệu là ảnh
+
+//! logic: khi component render xong thì load tất cả ghế của người khác đang đặt về browser
+
+//! nhưng đối với dữ liệu dạng hình ảnh thì phải truyền 3ts
+
+//! nhưng đối với dữ liệu dạng hình ảnh thì phải truyền 3ts    
+
+//!Kết nối redux
